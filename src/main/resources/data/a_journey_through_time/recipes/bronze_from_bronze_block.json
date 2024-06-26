@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "a_journey_through_time:bronze_block"
+    }
+  ],
+  "result": {
+    "item": "a_journey_through_time:bronze",
+    "count": 9
+  }
+}

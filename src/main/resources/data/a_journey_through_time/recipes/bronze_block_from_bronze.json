@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "a_journey_through_time:bronze"
+    }
+  },
+  "result": {
+    "item": "a_journey_through_time:bronze_block"
+  }
+}

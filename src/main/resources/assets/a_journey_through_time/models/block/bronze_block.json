@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "a_journey_through_time:block/bronze_block"
+  }
+}
