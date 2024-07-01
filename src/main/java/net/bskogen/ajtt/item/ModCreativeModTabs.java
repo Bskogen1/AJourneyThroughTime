@@ -19,8 +19,12 @@ public class ModCreativeModTabs {
                     .title(Component.translatable("creativetab.a_journey_through_time"))
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.BRONZE.get());
+                        pOutput.accept(ModItems.METAL_DETECTOR.get());
+                        pOutput.accept(ModItems.STRAWBERRY.get());
+                        pOutput.accept(ModItems.PINE_CONE.get());
 
                         pOutput.accept(ModBlocks.BRONZE_BLOCK.get());
+                        pOutput.accept(ModBlocks.SOUND_BLOCK.get());
                     })
 
                     .build());

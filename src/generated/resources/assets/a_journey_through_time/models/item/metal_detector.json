@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "a_journey_through_time:item/metal_detector"
+  }
+}

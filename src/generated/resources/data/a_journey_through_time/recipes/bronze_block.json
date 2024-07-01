@@ -1,17 +1,18 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "misc",
-  "pattern": [
-    "###",
-    "###",
-    "###"
-  ],
   "key": {
-    "#": {
+    "S": {
       "item": "a_journey_through_time:bronze"
     }
   },
+  "pattern": [
+    "SSS",
+    "SSS",
+    "SSS"
+  ],
   "result": {
     "item": "a_journey_through_time:bronze_block"
-  }
+  },
+  "show_notification": true
 }

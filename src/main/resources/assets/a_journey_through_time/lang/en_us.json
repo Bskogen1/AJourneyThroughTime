@@ -1,7 +1,14 @@
 {
   "item.a_journey_through_time.bronze": "Bronze ingot",
+  "item.a_journey_through_time.metal_detector": "Metal Detector",
+  "item.a_journey_through_time.strawberry": "Strawberry",
+  "item.a_journey_through_time.pine_cone": "Pine Cone",
 
   "block.a_journey_through_time.bronze_block": "Bronze Block",
+  "block.a_journey_through_time.sound_block": "Sound Block",
+
+  "tooltip.a_journey_through_time.metal.detector.tooltip": "Finds valuable materials underground! ",
+
 
   "creativetab.a_journey_through_time": "A Journey Through Time"
 }

@@ -1,0 +1,4 @@
+// 1.20.1	2024-07-01T17:16:58.9104439	Tags for minecraft:block mod id a_journey_through_time
+cb28339548a9f5c43f81c4715df14c62d24020ad data/a_journey_through_time/tags/blocks/metal_detector_valuables.json
+24eb2c16d8143ffda5d01a667ec97c1007cdd75b data/minecraft/tags/blocks/mineable/pickaxe.json
+2cba4d01cd03fa4035fe1aaea66098d2e0c9ff2a data/minecraft/tags/blocks/needs_iron_tool.json
