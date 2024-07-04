@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_orientable_trapdoor_open",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "texture": "a_journey_through_time:block/sapphire_trapdoor"
+  }
+}

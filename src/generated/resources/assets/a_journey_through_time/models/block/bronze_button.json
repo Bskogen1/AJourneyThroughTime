@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button",
+  "textures": {
+    "texture": "a_journey_through_time:block/bronze_block"
+  }
+}

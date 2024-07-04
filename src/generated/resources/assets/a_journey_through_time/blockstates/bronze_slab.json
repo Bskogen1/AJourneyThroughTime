@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "a_journey_through_time:block/bronze_slab"
+    },
+    "type=double": {
+      "model": "a_journey_through_time:block/bronze_block"
+    },
+    "type=top": {
+      "model": "a_journey_through_time:block/bronze_slab_top"
+    }
+  }
+}

@@ -29,5 +29,12 @@ public class ModBlockTagGenerator extends BlockTagsProvider {
         this.tag(BlockTags.MINEABLE_WITH_PICKAXE)
                 .add(ModBlocks.BRONZE_BLOCK.get(),
                         ModBlocks.SOUND_BLOCK.get());
+
+        this.tag(BlockTags.FENCES)
+                .add(ModBlocks.BRONZE_FENCE.get());
+        this.tag(BlockTags.FENCE_GATES)
+                .add(ModBlocks.BRONZE_FENCE_GATE.get());
+        this.tag(BlockTags.WALLS)
+                .add(ModBlocks.BRONZE_WALL.get());
     }
 }

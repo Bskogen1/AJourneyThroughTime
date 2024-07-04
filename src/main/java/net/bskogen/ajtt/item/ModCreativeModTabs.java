@@ -25,6 +25,18 @@ public class ModCreativeModTabs {
 
                         pOutput.accept(ModBlocks.BRONZE_BLOCK.get());
                         pOutput.accept(ModBlocks.SOUND_BLOCK.get());
+
+                        pOutput.accept(ModBlocks.BRONZE_STAIRS.get());
+                        pOutput.accept(ModBlocks.BRONZE_SLAB.get());
+                        pOutput.accept(ModBlocks.BRONZE_BUTTON.get());
+                        pOutput.accept(ModBlocks.BRONZE_PRESSURE_PLATE.get());
+
+                        pOutput.accept(ModBlocks.BRONZE_FENCE.get());
+                        pOutput.accept(ModBlocks.BRONZE_FENCE_GATE.get());
+                        pOutput.accept(ModBlocks.BRONZE_WALL.get());
+
+                        pOutput.accept(ModBlocks.SAPPHIRE_DOOR.get());
+                        pOutput.accept(ModBlocks.SAPPHIRE_TRAPDOOR.get());
                     })
 
                     .build());

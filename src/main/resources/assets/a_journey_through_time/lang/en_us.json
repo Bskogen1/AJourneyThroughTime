@@ -6,6 +6,15 @@
 
   "block.a_journey_through_time.bronze_block": "Bronze Block",
   "block.a_journey_through_time.sound_block": "Sound Block",
+  "block.a_journey_through_time.bronze_stairs": "Bronze Stairs",
+  "block.a_journey_through_time.bronze_slab": "Bronze Slab",
+  "block.a_journey_through_time.bronze_button": "Bronze Button",
+  "block.a_journey_through_time.bronze_pressure_plate": "Bronze Pressure Plate",
+  "block.a_journey_through_time.bronze_fence": "Bronze Fence",
+  "block.a_journey_through_time.bronze_fence_gate": "Bronze Fence Gate",
+  "block.a_journey_through_time.bronze_wall": "Bronze Wall",
+  "block.a_journey_through_time.sapphire_door": "Sapphire Door",
+  "block.a_journey_through_time.sapphire_trapdoor": "Sapphire Trapdoor",
 
   "tooltip.a_journey_through_time.metal.detector.tooltip": "Finds valuable materials underground! ",
 
